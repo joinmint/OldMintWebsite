@@ -2367,7 +2367,7 @@ html.no-csstransitions .home-content__main {
  * # services
  *
  * ------------------------------------------------------------------- */
-.s-services {
+/*.s-services {
     padding-top: 16.2rem;
     padding-bottom: 13.2rem;
     background-color: #FFFFFF;
@@ -2379,7 +2379,7 @@ html.no-csstransitions .home-content__main {
 /* -------------------------------------------------------------------
  * ## services list
  * ------------------------------------------------------------------- */
-.services-list {
+/*.services-list {
     margin-top: 6rem;
 }
 
@@ -2415,7 +2415,7 @@ html.no-csstransitions .home-content__main {
  * responsive:
  * services
  * ------------------------------------------------------------------- */
-@media only screen and (max-width: 1200px) {
+/*@media only screen and (max-width: 1200px) {
     .services-list {
         max-width: 1000px;
     }
