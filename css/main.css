@@ -2108,7 +2108,7 @@ html.no-csstransitions .home-content__main {
     .home-content__buttons .btn {
         display: block;
         width: 70%;
-        margin: 1.5rem 0 0 0;
+        margin: 0.5rem 0 0 0;
     }
     .home-social {
         right: 4rem;
