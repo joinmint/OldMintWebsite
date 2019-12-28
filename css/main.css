@@ -1824,7 +1824,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     width: 300px;
     border-color: #FFFFFF;
     color: #FFFFFF;
-    margin: 1.5rem 1.5rem 0 0;
+    margin: 1.5rem 2.5rem 0 0;
     letter-spacing: .25rem;
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
