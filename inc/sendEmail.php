@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail= join@mintproject.org;
+$siteOwnersEmail= "join@mintproject.org";
 
 
 if($_POST) {
