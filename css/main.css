@@ -2764,7 +2764,7 @@ html.no-csstransitions .home-content__main {
 /* -------------------------------------------------------------------
  * ## testimonials
  * ------------------------------------------------------------------- */
-/*.clients-testimonials {
+.clients-testimonials {
     margin-top: 4.2rem;
     padding-top: 7.2rem;
     text-align: center;
@@ -2864,7 +2864,7 @@ html.no-csstransitions .home-content__main {
  * responsive:
  * clients
  * ------------------------------------------------------------------- */
-/*@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1200px) {
     .clients-testimonials .testimonials {
         margin: 0 12%;
     }
