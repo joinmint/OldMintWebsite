@@ -1247,7 +1247,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     text-transform: uppercase;
     letter-spacing: .25rem;
     color: #39b54a;
-    margin-top: 0;
+    margin-top: 45px;
     margin-bottom: 0;
 }
 
